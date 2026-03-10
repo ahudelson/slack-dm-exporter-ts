@@ -33,7 +33,7 @@
    - users:read
    - files:read
    - mpim:read
-   - mpip:history
+   - mpim:history
    - channels:read
    - channels:history
 
