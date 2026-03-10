@@ -29,12 +29,13 @@
 6. Scroll to Scopes → User Token Scopes
 7. Add/check exactly these scopes:
 
-   - channels:read
    - im:read
-   - mpim:read
    - users:read
-   - channels:history
    - files:read
+   - mpim:read
+   - mpip:history
+   - channels:read
+   - channels:history
 
 8. Scroll back to the top of the OAuth & Permissions page
 9. Click Install to Workspace (or Reinstall to Workspace if already installed)
