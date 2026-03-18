@@ -30,6 +30,7 @@
 7. Add/check exactly these scopes:
 
    - im:read
+   - im:history
    - users:read
    - files:read
    - mpim:read
@@ -38,9 +39,10 @@
    - channels:history
 
 8. Scroll back to the top of the OAuth & Permissions page
-9. Click Install to Workspace (or Reinstall to Workspace if already installed)
-10. Review → click Allow
-11. Copy the User OAuth Token that appears at the top (starts with xoxp-...)
+9. Click on the Install App tab on the left
+10. Click Install to Workspace (or Reinstall to Workspace if already installed)
+11. Review → click Allow
+12. Copy the User OAuth Token that appears at the top (starts with xoxp-...)
 
 This is a user token (xoxp-...), not a bot token. Keep it private.
 
